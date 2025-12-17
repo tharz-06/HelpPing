@@ -102,8 +102,6 @@ const String apiBaseUrl = 'http://10.0.2.2:8000'; // Android emulator to local b
 
 flutter run
 
-text
-
 Log in or register from the app, then create a help request and see it appear on other devices logged into the same backend.
 
 ---
