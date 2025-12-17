@@ -62,19 +62,13 @@ python -m venv venv
 Windows PowerShell
 venv\Scripts\Activate.ps1
 
-text
-
 3. Install Python dependencies:
 
 pip install -r requirements.txt
 
-text
-
 4. Start the FastAPI server with Uvicorn:
 
 uvicorn main:app --reload
-
-text
 
 5. The API will be available at:
 
